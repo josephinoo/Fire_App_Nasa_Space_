@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FireApp</string>
+    <string name="title_activity_g_places">Map</string>
+    <string name="historial">Historial</string>
+    <string name="title_activity_lugares">Map</string>
+</resources>
